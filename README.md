@@ -30,7 +30,7 @@
 ![image](https://github.com/user-attachments/assets/e3069a9c-6ffe-44a6-9220-0f4edbe0ce66)
 
 
-**Видим страницу Freedompay для привязи карты**
+**Видим страницу Freedompay для привязки карты**
 
 
 
