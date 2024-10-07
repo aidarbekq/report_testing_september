@@ -4,7 +4,8 @@ http://113.30.190.31:8007/api/cards/user_id/
 Получение карт пользователя в нашей системе
 ожидание: 200 + json
 результат:
-![[Pasted image 20241007205919.png]]
+![image](https://github.com/user-attachments/assets/1e0c3ef0-8cc3-4e8f-9f05-a4f456c21437)
+
 
 
 
